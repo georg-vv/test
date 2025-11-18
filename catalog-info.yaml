@@ -5,6 +5,8 @@ metadata:
   description: Repository created via Backstage
   annotations:
     github.com/project-slug: georg-vv/test
+  tags:
+    - k8s-ready
 spec:
   type: service
   owner: user:default/g.schwarzberlin
