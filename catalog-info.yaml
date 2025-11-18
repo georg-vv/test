@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test
+  description: Repository created via Backstage
+  annotations:
+    github.com/project-slug: georg-vv/test
+spec:
+  type: service
+  owner: nvc_team
+  lifecycle: experimental
