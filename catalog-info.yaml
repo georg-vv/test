@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: georg-vv/test
 spec:
   type: service
-  owner: nvc_team
+  owner: user:default/g.schwarzberlin
   lifecycle: experimental
